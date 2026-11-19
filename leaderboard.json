@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-11-19T02:07:38.807756+00:00",
+  "run_id": "43349867344",
+  "run_url": "https://github.com/itomek/lemonade/actions/runs/43349867344",
+  "repo": "itomek/lemonade",
+  "repo_url": "https://github.com/itomek/lemonade",
+  "actions_url": "https://github.com/itomek/lemonade/actions/workflows/benchmark-regression.yml",
+  "commit": "8560a810db0b6c4cdf92c0b88133e12213b12e8b",
+  "lemonade_version": null,
+  "lemonade_versions_seen": [],
+  "systems": [],
+  "experimental_forks": [
+    "llamacpp-hrx",
+    "halo-box-strix"
+  ],
+  "by_model_scenario": {},
+  "history": {}
+}
